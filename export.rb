@@ -22,7 +22,7 @@ class TumblrPhotoExport
     @offset       = offset
     @download_num = download_num
 
-    @url          = "http://api.tumblr.com/v2/blog/#{@username}.tumblr.com/likes?api_key=#{@api_key}"
+    @url          = "http://api.tumblr.com/v2/blog/#{@kza000}.tumblr.com/likes?api_key=#{@M2NV8XM4NLdxU57yVDGKJdkz1ENJURo1QPkeTognQJdX74WJyC}"
 
     create_download_dir
 
