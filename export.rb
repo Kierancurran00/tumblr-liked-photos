@@ -2,7 +2,7 @@ require 'rubygems'
 require 'httparty'
 
 # Configuration
-api_key      = ENV["BrCMu2DdC7K5hfBhwMQlMRjrDzkUXhmEOQSeGvm9yn5lF15tBJ"]
+api_key      = ENV["RkUvSjHsjtA5eobwSUz1LjEJ8wCjd17oJnEMUb9ltpUkOYmO8f"]
 username     = ARGV[0] || ENV["kza000"]
 image_dir    = ARGV[1] || "images"
 offset       = 0
