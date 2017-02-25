@@ -1,0 +1,6 @@
+Tumblr.configure do |config|
+config.consumer_key = "M2NV8XM4NLdxU57yVDGKJdkz1ENJURo1QPkeTognQJdX74WJyC"
+config.consumer_secret = "capgQzfS3lB8QKn9xHqINWo8IUJI3x2ewhUgDkvQ2R5NCcwZvw"
+config.oauth_token = "34Znkc5t4nMWEo0dAFEQkIV38F8WjkqAV4hnWY6MbbT3URpeOv"
+config.oauth_token_secret = "ADgdFyHIan6Awdx6Wqmbe4iF38g9OMmNGgQs7ANX3dWY6LQt31"
+end
